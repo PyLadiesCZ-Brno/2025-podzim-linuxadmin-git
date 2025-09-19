@@ -11,7 +11,7 @@ Funkce s tasky používají _typing annotation_ - je to moderní způsob psaní 
 ### Postup samostatné práce
 
 1. Nahlásíš svůj GitHub username, abychom ti dali právo zápisu do tohoto repa
-1. Vybereš si na jakém tasku budeš dělat. V tomto repozitáři na GitHubu založíš **Isssue** s title číslo úkolu (např. **01**) - tím si úkol _zarezervuješ_, aby nikdo jiný neposlal pull request se svým řešením dřív než ty.
+1. Vybereš si na jakém tasku budeš dělat. V tomto repozitáři na GitHubu založíš **Issue** s title číslo úkolu (např. **01**) - tím si úkol _zarezervuješ_, aby nikdo jiný neposlal pull request se svým řešením dřív než ty.
 1. Vyřešíš a otestuješ task
     * Spustíš na své řešení `autopep8` - přečti si o [Coding style](https://kodim.cz/czechitas/uvod-do-progr-2/bonusy/coding-style/coding-style)
     * Spustíš na své řešení `pytest`
