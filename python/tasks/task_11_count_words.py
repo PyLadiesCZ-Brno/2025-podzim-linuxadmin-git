@@ -4,4 +4,4 @@ def count_words(s: str) -> int:
     """
     Vrátí počet slov v řetězci oddělených mezerami.
     """
-
+    return len(s.split())
