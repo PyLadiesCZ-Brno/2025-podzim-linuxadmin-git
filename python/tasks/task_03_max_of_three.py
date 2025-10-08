@@ -4,5 +4,4 @@ def max_of_three(a: int, b: int, c: int) -> int:
     """
     Vrátí největší ze tří čísel.
     """
-    
-   return max(a, b, c)
+    return max(a, b, c)
