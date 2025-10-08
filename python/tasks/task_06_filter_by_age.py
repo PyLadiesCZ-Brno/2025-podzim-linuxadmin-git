@@ -7,3 +7,4 @@ def filter_by_age(people: dict):
     starší než 18 let.
     """
 
+    return [person for person in people if person['age'] > 18]
